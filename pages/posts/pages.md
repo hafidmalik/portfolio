@@ -6,7 +6,7 @@ tag: web development
 author: You
 ---
 
-# Next.js Pages
+# History of Daksum
 
 In Next.js, a **page** is a [React Component](https://reactjs.org/docs/components-and-props.html) exported from a `.js`, `.jsx`, `.ts`, or `.tsx` file in the `pages` directory. Each page is associated with a route based on its file name.
 
@@ -20,7 +20,7 @@ function About() {
 export default About
 ```
 
-### Pages with Dynamic Routes
+### Location
 
 Next.js supports pages with dynamic routes. For example, if you create a file called `pages/posts/[id].js`, then it will be accessible at `posts/1`, `posts/2`, etc.
 
