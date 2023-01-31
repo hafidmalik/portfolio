@@ -6,7 +6,13 @@ tag: web development
 author: You
 ---
 
-# History of Daksum
+### Location
+
+Daksum Is a natural scenic spot located in the Larnoo tehsil of Anantnag district, Jammu and Kashmir, at Anantnag-Semthan-Kishtwar road. 
+
+It is located at an altitude of 2,438m above the sea level.Coordinates: 33°36'43"N 75°26'6"E. It is 42 km from the district headquarters Anantnag and about 100 km from summer capital Srinagar, on the trekking route to Kishtwar.
+
+#  Daksum
 
 In Next.js, a **page** is a [React Component](https://reactjs.org/docs/components-and-props.html) exported from a `.js`, `.jsx`, `.ts`, or `.tsx` file in the `pages` directory. Each page is associated with a route based on its file name.
 
@@ -20,9 +26,6 @@ function About() {
 export default About
 ```
 
-### Location
-
-Daksum Is a natural scenic spot located in the Larnoo tehsil of Anantnag district, Jammu and Kashmir, at Anantnag-Semthan-Kishtwar road. 
 
 
 ## Pre-rendering
