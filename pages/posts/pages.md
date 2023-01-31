@@ -1,6 +1,6 @@
 ---
 title: Hi, this is Hafid Malik's Travel blog
-date: 1st Feb, 2023
+date: 1/2/2023
 description: I will take you across exotic locations arounf Kashmir.
 tag: web development
 author: You
