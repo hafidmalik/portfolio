@@ -1,6 +1,6 @@
 ---
 title: Hi, this is Hafid Malik's Travel blog
-date: 1/2/2023
+date: 2/1/2023
 description: I will take you across exotic locations arounf Kashmir.
 tag: web development
 author: You
@@ -22,9 +22,8 @@ export default About
 
 ### Location
 
-Next.js supports pages with dynamic routes. For example, if you create a file called `pages/posts/[id].js`, then it will be accessible at `posts/1`, `posts/2`, etc.
+Daksum Is a natural scenic spot located in the Larnoo tehsil of Anantnag district, Jammu and Kashmir, at Anantnag-Semthan-Kishtwar road. 
 
-> To learn more about dynamic routing, check the [Dynamic Routing documentation](/docs/routing/dynamic-routes.md).
 
 ## Pre-rendering
 
